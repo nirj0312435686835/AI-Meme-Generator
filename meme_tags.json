@@ -1,0 +1,65 @@
+{
+  "meme_templates/distracted_boyfriend.jpg": [
+    "distracted", "cheating", "attention", "new vs old", "temptation", "unfaithfulness", "choices"
+  ],
+  "meme_templates/drake_hotline_bling.png": [
+    "approval", "disapproval", "likes", "dislikes", "choice", "comparison", "preference"
+  ],
+  "meme_templates/success_kid.jpg": [
+    "success", "achievement", "win", "good news", "victory", "small wins", "fortune"
+  ],
+  "meme_templates/woman_yelling_at_cat.jpg": [
+    "anger", "confusion", "misunderstanding", "argument", "blaming", "surprise", "disbelief", "scream"
+  ],
+  "meme_templates/two_buttons.jpg": [
+    "dilemma", "choice", "hard decision", "options", "consequences", "difficult"
+  ],
+  "meme_templates/change_my_mind.jpg": [
+    "opinion", "debate", "challenge", "controversial", "strongly believe", "discussion", "fact"
+  ],
+  "meme_templates/mocking_spongebob.jpg": [
+    "mocking", "sarcasm", "imitation", "annoyed", "ridicule", "condescending", "exaggeration"
+  ],
+  "meme_templates/boardroom_meeting_suggestion.jpg": [
+    "bad idea", "ignored", "genius idea", "unpopular opinion", "disregarded", "proposal", "meeting"
+  ],
+  "meme_templates/is_this_a_pigeon.jpg": [
+    "confusion", "misidentification", "uncertainty", "simple concept", "misunderstanding", "abstract"
+  ],
+  "meme_templates/surprised_pikachu.jpg": [
+    "surprise", "shock", "obvious outcome", "feigned ignorance", "unexpected", "astonishment"
+  ],
+  "meme_templates/crying_jordan.jpg": [
+    "sadness", "defeat", "failure", "losing", "disappointment", "emotional"
+  ],
+  "meme_templates/expanding_brain.jpg": [
+    "intelligence", "understanding", "enlightenment", "growth", "awareness", "mind blown", "insight"
+  ],
+  "meme_templates/guy_holding_sign.jpg": [
+    "protest", "message", "statement", "opinion", "declaration", "simple truth"
+  ],
+  "meme_templates/one_does_not_simply.jpg": [
+    "difficulty", "impossible", "hard task", "complicated", "challenge"
+  ],
+  "meme_templates/doge.jpg": [
+    "dog", "shiba inu", "amazement", "internet culture", "very wow", "much"
+  ],
+  "meme_templates/philosoraptor.jpg": [
+    "philosophy", "deep thought", "paradox", "question", "mind-bending", "dilemma"
+  ],
+  "meme_templates/feels_bad_man_pepe.jpg": [
+    "sadness", "loneliness", "empathy", "pity", "melancholy", "unfortunate"
+  ],
+  "meme_templates/spongebob_imagination.jpg": [
+    "imagination", "creativity", "exaggeration", "wonder", "fantasy", "dreams"
+  ],
+  "meme_templates/thinking_emoji.jpg": [
+    "thinking", "contemplation", "doubt", "pondering", "skepticism", "questioning"
+  ],
+  "meme_templates/this_is_fine.jpg": [
+    "denial", "crisis", "everything is fine", "calm in chaos", "disaster", "stress"
+  ],
+  "meme_templates/confused_math_lady.jpg": [
+    "confusion", "complicated", "math", "overwhelmed", "complex", "unclear"
+  ]
+}
